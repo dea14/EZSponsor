@@ -12,7 +12,7 @@ import android.widget.RelativeLayout;
 
 public class DonationInfo extends AppCompatActivity {
 
-    private ListView list, completedList;
+    private ListView list, completedList ;
 
     private String [] maintitle = {
         "Education",
